@@ -6,5 +6,10 @@
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/_link/header__link.css);
+/* description */
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__subtitle/description__subtitle.css);
 /* footer */
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__link/footer__link.css);

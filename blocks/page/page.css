@@ -4,4 +4,6 @@
     margin: 0;
     padding: 0;
     font-family: "Helvetica Neue", Arial, sans-serif;
+    background: linear-gradient(to right,#8a21e0, #ec25d8);
+    color: white;
 }
