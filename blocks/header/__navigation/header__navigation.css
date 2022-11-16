@@ -1,0 +1,19 @@
+.header__navigation {
+  display: flex;
+  justify-content: center;
+  margin: 180px auto 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 820px) {
+  .header__navigation {
+    flex-direction: column;
+    max-width: 200px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .header__navigation {
+    margin-top: 70px;
+  }
+}
